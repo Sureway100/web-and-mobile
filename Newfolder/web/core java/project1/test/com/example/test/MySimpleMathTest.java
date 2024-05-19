@@ -29,8 +29,12 @@ class MySimpleMathTest {
 //		assertFalse
 //		assertArrayEquals(expected, result)
 		
-//		@BeforeEach 
-//		@AfterEach
+		
+//		ANNOTATIONS
+//		@BeforeEach   -> setup before test
+//		@AfterEach  -> clean up after test
+		
+//		@BeforeAll
 	}
 
 }
